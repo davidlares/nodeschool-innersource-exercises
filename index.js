@@ -1,0 +1,7 @@
+console.log('InnerSource Tenets')
+console.log("=================================")
+console.log('1. Faster development')
+console.log('2. Complete documentation')
+console.log('3. Code reuse')
+console.log('4. Cross-team collaboration')
+console.log('5. Development with GitHub')
