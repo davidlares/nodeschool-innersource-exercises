@@ -1,9 +1,5 @@
 # davidInnerSource
 
-## Name
-
-davidInnerSource
-
 ## Description
 
 Nodeschool's InnerSource Project crash Workshop. This file represents the main headings (key data) for your software repository.
