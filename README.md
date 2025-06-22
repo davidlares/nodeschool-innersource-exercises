@@ -1,4 +1,4 @@
-# davidInnerSource
+## davidInnerSource
 
 ## Description
 
@@ -6,7 +6,7 @@ Nodeschool's InnerSource Project crash Workshop. This file represents the main h
 
 ## Usage
 
-Simple, this could be used as a project repo information skeleton for any software development. Check the benefits from InnerSource strategy here: [Advantages](https://github.com/espadrine)
+Simple, this could be used as a project repo information skeleton for any software development. Check the benefits from the InnerSource strategy here: [Advantages](https://github.com/espadrine)
 
 ## Badges
 
@@ -18,15 +18,15 @@ Check [Shields.io](https://shields.io/) (Official website)
 
 ## Keywords
 
-Place your keywords lists here.
+Place your keyword lists here.
 
 ## Key project management links
 
-Place your keywords management links and resources here.
+Place your keywords, management links, and resources here.
 
 ## Documentation links
 
-Share your docs file here.
+Share your Docs file here.
 
 ## Announcement list location
 
@@ -36,4 +36,4 @@ This is completely optional. Feel free to use it.
 
 - [InnerSource Commons](https://innersourcecommons.org/)
 - [InnerSourceAdventure](https://github.com/CollaborareDotNet/innersourceadventure)
-- [David Lares](https://twitter.com/davidlares3)
+- [David Lares](https://davidlares.com)
